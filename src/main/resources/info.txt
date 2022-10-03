@@ -1,0 +1,8 @@
+
+Azure speech service info:
+https://azure.microsoft.com/en-gb/pricing/details/cognitive-services/speech-services/
+
+Should be added to ~/.bash_profile
+# Setting PATH Azure
+export SPEECH_KEY=your key
+export SPEECH_REGION=eastus
