@@ -14,6 +14,7 @@ public class SpeechSynthesis {
         SpeechConfig speechConfig = SpeechConfig.fromSubscription(speechKey, speechRegion);
 
         speechConfig.setSpeechSynthesisVoiceName("en-US-JennyNeural");
+//        speechConfig.setSpeechSynthesisVoiceName("uk-UA-OstapNeural");
 
         SpeechSynthesizer speechSynthesizer = new SpeechSynthesizer(speechConfig);
 

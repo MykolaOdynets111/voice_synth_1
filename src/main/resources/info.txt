@@ -6,3 +6,7 @@ Should be added to ~/.bash_profile
 # Setting PATH Azure
 export SPEECH_KEY=your key
 export SPEECH_REGION=eastus
+
+site: http://www.sinty.online/
+
+https://learn.microsoft.com/ru-ru/azure/cognitive-services/speech-service/index-speech-to-text
